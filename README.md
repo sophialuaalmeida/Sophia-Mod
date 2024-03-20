@@ -3,6 +3,7 @@
 Um mod utilitário para o Mush (Arena), que apresenta:
 
 - Alert Glad
+- Auto Ez
 - Auto Text
 - Detecção de Archer (Azul)
 - Detecção de Fisherman (Laranja)
