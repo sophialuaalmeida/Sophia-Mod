@@ -4,6 +4,7 @@ Um mod utilitário para o Mush (Arena), que apresenta:
 
 - Alert Glad
 - Auto Text
+- Detecção de Archer (Azul)
 - Detecção de Fisherman (Laranja)
 - Detecção de Glad (Vermelho)
 - Detecção de Kangaroo (Magenta)
