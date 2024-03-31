@@ -17,7 +17,7 @@ O Sophia Mod é um mod utilitário desenvolvido para o Mush (CTF), oferecendo um
 - **Hitbox** (Em breve)
 - **Player ESP**
 - **Reach** (Em breve)
-- **Toggle Sprint** (Em breve)
+- **Toggle Sprint**
 
 ## Como Usar:
 
